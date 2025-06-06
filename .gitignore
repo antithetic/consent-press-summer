@@ -12,6 +12,7 @@ build
 .next
 out
 .turbo
+.vercel
 
 # Debug
 npm-debug.log*
