@@ -1,2 +1,2 @@
 ## Shared Packges info
-## install & runn "glow" pretty formatting
+install & runn "glow" pretty formatting
